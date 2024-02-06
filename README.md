@@ -10,7 +10,7 @@ Install project deps:
 
 ```bash
 # using npm
-npm start
+npm install
 ```
 
 Then install pods for IOS:
