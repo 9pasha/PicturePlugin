@@ -1,12 +1,8 @@
-//
-//  RCTImageUtilsModule.h
-//  PicturePlugin
-//
-//  Created by Дарья on 5.02.24.
-//
+// RCTImageUtilsModule.h
+#import <React/RCTBridgeModule.h>
 
-#ifndef RCTImageUtilsModule_h
-#define RCTImageUtilsModule_h
+@interface RCTImageUtilsModule : NSObject <RCTBridgeModule>
 
+- (void)cropAndSaveImageAtPath:(NSString *)imagePath originX:(CGFloat)originX originY:(CGFloat)originY width:(CGFloat)width height:(CGFloat)height callback:(RCTResponseSenderBlock)callback;
 
-#endif /* RCTImageUtilsModule_h */
+@end

@@ -1,8 +1,15 @@
+#import <React/RCTBridge.h>
+
 #import "AppDelegate.h"
+#import "RCTImageUtilsModule.h"
 
 #import <React/RCTBundleURLProvider.h>
 
 @implementation AppDelegate
+
+- (NSArray<id<RCTBridgeModule>> *)extraModulesForBridge:(RCTBridge *)bridge {
+  return @[[[RCTImageUtilsModule alloc] init]];
+}
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
