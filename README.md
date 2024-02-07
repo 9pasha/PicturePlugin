@@ -1,5 +1,8 @@
 # Picture Cropper APP
 
+![Uploading Feb-07-2024 11-06-20.gif…]()
+
+
 ## How to use application:
 
 1. Pick image:
