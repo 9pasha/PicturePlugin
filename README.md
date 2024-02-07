@@ -2,9 +2,6 @@
 
 ![Feb-07-2024 11-06-20](https://github.com/9pasha/PicturePlugin/assets/43972020/4879c506-ac03-41cb-9142-3056da053646)
 
-![Feb-07-2024 11-06-20](https://github.com/9pasha/PicturePlugin/assets/43972020/4760de09-9506-4d5e-8f09-ebff5ba6f6f5)
-
-
 ## How to use application:
 
 1. Pick image:
