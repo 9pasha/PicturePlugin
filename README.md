@@ -1,6 +1,7 @@
 # Picture Cropper APP
 
-![Feb-07-2024 11-06-20](https://github.com/9pasha/PicturePlugin/assets/43972020/4879c506-ac03-41cb-9142-3056da053646) ![Feb-07-2024 11-11-29](https://github.com/9pasha/PicturePlugin/assets/43972020/e0a32ae5-2ec9-4857-ba0d-f119a2f40a0a)
+![Feb-07-2024 11-06-20](https://github.com/9pasha/PicturePlugin/assets/43972020/4879c506-ac03-41cb-9142-3056da053646) ![Feb-07-2024 11-11-29](https://github.com/9pasha/PicturePlugin/assets/43972020/a0dcd2f0-70ab-479f-87ea-523254432f9b)
+
 
 ## How to use application:
 
